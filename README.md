@@ -21,7 +21,9 @@ Steps to check "hello world" functionality:
 
 -run npm install
 
--node server.js
+-run mongod
+
+-run node server.js
 
 -should see listening on port 3000
 
