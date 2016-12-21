@@ -9,7 +9,7 @@ Things to replace:
 
 -boilerplate_MEAN (references in: index.html, server.js)
 
--boilerApp (references in: app.js/index.html)
+-boilerApp (references in: app.js/index.html,firstController.js)
 
 -firstController(s) (name of the file in /public/ and in /controllers/, references in: server.js/app.js/firstController.js,index.html)
 
